@@ -7,3 +7,5 @@ Grafana Dashboard for Viessmann Visualisation
 * Python script for metrics saving
 * Prometheus instance which scraping data from exposed metrics by Python script
 * Grafana for Visualisation and possibility to analyze cost of the gas usage.
+
+![Dashboard](/images/viessmann.png)
